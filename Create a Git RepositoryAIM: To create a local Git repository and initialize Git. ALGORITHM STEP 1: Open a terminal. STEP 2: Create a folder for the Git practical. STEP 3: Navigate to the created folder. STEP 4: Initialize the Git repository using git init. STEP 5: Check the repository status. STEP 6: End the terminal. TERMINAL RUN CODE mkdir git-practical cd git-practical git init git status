@@ -1,0 +1,15 @@
+AIM: To create a local Git repository and initialize Git.
+
+ALGORITHM
+STEP 1: Open a terminal.
+STEP 2: Create a folder for the Git practical.
+STEP 3: Navigate to the created folder.
+STEP 4: Initialize the Git repository using git init.
+STEP 5: Check the repository status.
+STEP 6: End the terminal.
+
+TERMINAL RUN CODE
+mkdir git-practical
+cd git-practical
+git init
+git status
